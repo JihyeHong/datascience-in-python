@@ -10,9 +10,9 @@ Simple Analysis with Pandas library
 RESTful API client from MeetUp API
 ### Prerequisites
 Meetup API and API key
-'''
+```
 import meetup.api
 
 client = meetup.api.Client()
 client.api_key = "" # Access the key from the config file
-'''
+```
