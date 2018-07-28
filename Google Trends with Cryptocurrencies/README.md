@@ -1,5 +1,5 @@
 
-## Google Trends data with Cryptocurrencies
+## Google Trends about Cryptocurrencies
 * What is Google Trends data? <p>
 Google Trends data is a good indicator to see the popularity of a search term.
 As an index, it demonstrates how much interest Google users feel in a given search term for a given time and region.
