@@ -16,4 +16,4 @@ e.g > Bigger interests in a certain currency means that the coin market will be 
  
 * Result <p>
 With only this naive approach, it seems there are some connection between growing Google interests and price increases relatively in certain coins, especially rather small currencies such as XMR and ZEC as compared to BTC and ETH. <p>
-Based on this experiment, interest in major coins can be rather noisy but search popularity in small currencies are seemingly relevant to the change of market price. 
+Based on this experiment, interest in major coins can be rather noisy but search popularity in small currencies are seemingly relevant to the change of market price in a long term period analysis. 
